@@ -364,3 +364,74 @@
 2025-12-09 19:57:46 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Finished TC001_AccountRegisterationTest ****
 2025-12-09 19:57:49 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
 2025-12-09 19:57:50 [main] INFO  testCases.TC002_LoginTest -*** Finished TC002 LoginTest ***
+2025-12-10 16:38:30 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\master.xml"
+2025-12-10 16:38:30 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\master.xml
+
+2025-12-10 16:38:35 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-12-10 16:38:36 [main] INFO  testCases.TC002_LoginTest -*** Finished TC002 LoginTest ***
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-10 16:38:37 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-10 16:40:45 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\master.xml"
+2025-12-10 16:40:48 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Starting TC001_AccountRegisterationTest ****
+2025-12-10 16:40:49 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link.. 
+2025-12-10 16:40:49 [main] INFO  testCases.TC001_AccountRegisterationTest -Clicked on Register Link..
+2025-12-10 16:40:49 [main] INFO  testCases.TC001_AccountRegisterationTest -Providing customer details
+2025-12-10 16:40:51 [main] INFO  testCases.TC001_AccountRegisterationTest -Validating expected message..
+2025-12-10 16:40:51 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Finished TC001_AccountRegisterationTest ****
+2025-12-10 16:40:55 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-12-10 16:40:56 [main] INFO  testCases.TC002_LoginTest -*** Finished TC002 LoginTest ***

@@ -12,9 +12,16 @@
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="verify_loginDDT" invocation-numbers="4"/>
+          <include name="verify_loginDDT"/>
         </methods>
       </class> <!-- testCases.TC003_LogininDDT -->
+      <class name="testCases.TC001_AccountRegisterationTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="verify_account_registration"/>
+        </methods>
+      </class> <!-- testCases.TC001_AccountRegisterationTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->
