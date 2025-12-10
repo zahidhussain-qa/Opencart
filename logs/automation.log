@@ -1,0 +1,366 @@
+2025-11-25 03:47:38 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 03:47:39 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 03:56:40 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 03:56:41 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 03:58:47 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 03:58:47 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 04:02:46 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 04:02:46 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 04:08:07 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 04:08:07 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 04:11:08 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 04:11:08 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 04:11:08 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-11-25 04:15:17 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 04:15:17 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 04:27:07 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 04:27:08 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 04:28:06 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 04:28:06 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 04:32:53 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 04:32:54 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 05:14:16 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 05:14:16 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 05:15:52 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 05:15:53 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 05:18:02 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 05:18:02 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 05:18:45 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 05:18:45 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 05:19:37 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 05:19:37 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 05:22:51 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 05:22:51 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 05:29:48 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 05:29:48 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 05:31:12 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 05:31:12 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 05:35:16 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 05:35:16 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 05:40:47 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 05:40:47 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 15:56:58 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 15:56:59 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 15:57:47 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 15:57:47 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 15:58:50 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 15:58:50 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 16:01:17 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 16:01:18 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 16:14:58 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 16:14:58 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 16:36:26 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 16:36:26 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 16:36:28 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-11-25 16:39:14 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 16:39:15 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 16:39:16 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-11-25 16:41:30 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 16:41:31 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 16:41:32 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-11-25 16:42:54 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 16:42:54 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 16:50:18 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 16:50:18 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 16:50:20 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-11-25 16:58:47 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 16:58:47 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 16:58:50 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-11-25 16:58:51 [main] INFO  testCases.TC002_LoginTest -*** Finished TC002 LoginTest ***
+2025-11-25 18:02:58 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 18:02:58 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 18:03:10 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-11-25 18:03:11 [main] INFO  testCases.TC002_LoginTest -*** Finished TC002 LoginTest ***
+2025-11-25 18:03:33 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 18:03:33 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 19:11:46 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 19:11:47 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 20:15:31 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 20:15:31 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 20:23:23 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 20:23:23 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 20:47:14 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 20:47:14 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 20:51:37 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 20:51:37 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-25 20:52:43 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-25 20:52:43 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-26 19:33:59 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-26 19:33:59 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-26 19:35:42 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-26 19:35:42 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-26 20:13:39 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-26 20:13:39 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-26 20:23:36 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-26 20:23:37 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-26 20:27:31 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-26 20:27:31 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-11-26 20:39:16 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml"
+2025-11-26 20:39:16 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\grid-docker.xml
+
+2025-12-08 00:51:22 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\master.xml"
+2025-12-08 00:51:23 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\master.xml
+
+2025-12-08 00:51:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:23 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 00:51:24 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:04 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\master.xml"
+2025-12-08 19:17:05 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\master.xml
+
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection -Parsing relationship: /_rels/.rels
+2025-12-08 19:17:09 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory -using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2025-12-08 19:17:09 [main] INFO  testCases.TC003_LogininDDT -*** Starting TC003_LoginDDT ****
+2025-12-08 19:17:10 [main] INFO  testCases.TC003_LogininDDT -*** Finished TC003_LoginDDT ****
+2025-12-08 19:17:10 [main] INFO  testCases.TC003_LogininDDT -*** Starting TC003_LoginDDT ****
+2025-12-08 19:17:11 [main] INFO  testCases.TC003_LogininDDT -*** Finished TC003_LoginDDT ****
+2025-12-08 19:17:11 [main] INFO  testCases.TC003_LogininDDT -*** Starting TC003_LoginDDT ****
+2025-12-08 19:17:22 [main] INFO  testCases.TC003_LogininDDT -*** Finished TC003_LoginDDT ****
+2025-12-08 19:17:22 [main] INFO  testCases.TC003_LogininDDT -*** Starting TC003_LoginDDT ****
+2025-12-08 19:17:32 [main] INFO  testCases.TC003_LogininDDT -*** Finished TC003_LoginDDT ****
+2025-12-08 19:17:32 [main] INFO  testCases.TC003_LogininDDT -*** Starting TC003_LoginDDT ****
+2025-12-08 19:38:04 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\master.xml"
+2025-12-08 19:38:04 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\zdhn\eclipse-workspace\Opencart\master.xml
+
+2025-12-08 19:38:08 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Starting TC001_AccountRegisterationTest ****
+2025-12-08 19:38:08 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link.. 
+2025-12-08 19:38:08 [main] INFO  testCases.TC001_AccountRegisterationTest -Clicked on Register Link..
+2025-12-08 19:38:08 [main] INFO  testCases.TC001_AccountRegisterationTest -Providing customer details
+2025-12-08 19:38:11 [main] INFO  testCases.TC001_AccountRegisterationTest -Validating expected message..
+2025-12-08 19:38:11 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Finished TC001_AccountRegisterationTest ****
+2025-12-08 19:38:15 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-12-08 19:38:15 [main] INFO  testCases.TC002_LoginTest -*** Finished TC002 LoginTest ***
+2025-12-08 19:44:10 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\master.xml"
+2025-12-08 19:44:18 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Starting TC001_AccountRegisterationTest ****
+2025-12-08 19:44:18 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link.. 
+2025-12-08 19:44:19 [main] INFO  testCases.TC001_AccountRegisterationTest -Clicked on Register Link..
+2025-12-08 19:44:19 [main] INFO  testCases.TC001_AccountRegisterationTest -Providing customer details
+2025-12-08 19:44:22 [main] INFO  testCases.TC001_AccountRegisterationTest -Validating expected message..
+2025-12-08 19:44:22 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Finished TC001_AccountRegisterationTest ****
+2025-12-08 19:44:28 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-12-08 19:44:29 [main] INFO  testCases.TC002_LoginTest -*** Finished TC002 LoginTest ***
+2025-12-08 20:56:55 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\master.xml"
+2025-12-08 20:57:00 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Starting TC001_AccountRegisterationTest ****
+2025-12-08 20:57:00 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link.. 
+2025-12-08 20:57:00 [main] INFO  testCases.TC001_AccountRegisterationTest -Clicked on Register Link..
+2025-12-08 20:57:00 [main] INFO  testCases.TC001_AccountRegisterationTest -Providing customer details
+2025-12-08 20:57:03 [main] INFO  testCases.TC001_AccountRegisterationTest -Validating expected message..
+2025-12-08 20:57:03 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Finished TC001_AccountRegisterationTest ****
+2025-12-08 20:57:06 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-12-08 20:57:07 [main] INFO  testCases.TC002_LoginTest -*** Finished TC002 LoginTest ***
+2025-12-09 12:03:35 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\master.xml"
+2025-12-09 12:03:42 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Starting TC001_AccountRegisterationTest ****
+2025-12-09 12:03:42 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link.. 
+2025-12-09 12:03:43 [main] INFO  testCases.TC001_AccountRegisterationTest -Clicked on Register Link..
+2025-12-09 12:03:43 [main] INFO  testCases.TC001_AccountRegisterationTest -Providing customer details
+2025-12-09 12:03:46 [main] INFO  testCases.TC001_AccountRegisterationTest -Validating expected message..
+2025-12-09 12:03:46 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Finished TC001_AccountRegisterationTest ****
+2025-12-09 12:03:52 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-12-09 12:03:53 [main] INFO  testCases.TC002_LoginTest -*** Finished TC002 LoginTest ***
+2025-12-09 19:57:38 [main] DEBUG org.testng.TestNG -suiteXmlPath: "C:\Users\zdhn\eclipse-workspace\Opencart\master.xml"
+2025-12-09 19:57:42 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Starting TC001_AccountRegisterationTest ****
+2025-12-09 19:57:43 [main] INFO  testCases.TC001_AccountRegisterationTest - Clicked on MyAccount Link.. 
+2025-12-09 19:57:43 [main] INFO  testCases.TC001_AccountRegisterationTest -Clicked on Register Link..
+2025-12-09 19:57:43 [main] INFO  testCases.TC001_AccountRegisterationTest -Providing customer details
+2025-12-09 19:57:46 [main] INFO  testCases.TC001_AccountRegisterationTest -Validating expected message..
+2025-12-09 19:57:46 [main] INFO  testCases.TC001_AccountRegisterationTest -**** Finished TC001_AccountRegisterationTest ****
+2025-12-09 19:57:49 [main] INFO  testCases.TC002_LoginTest -*** Starting TC002 LoginTest ***
+2025-12-09 19:57:50 [main] INFO  testCases.TC002_LoginTest -*** Finished TC002 LoginTest ***
