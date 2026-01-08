@@ -41,7 +41,7 @@ public Properties p;
 	public void setup(String os, String br) throws IOException
 	{
 		//Loading config.properties file
-		FileReader file=new FileReader(".//src//test//resources//config.properties");
+		FileReader file=new FileReader(System.getProperty("user.dir") + ".//src//test//resources//config.properties");
 		p=new Properties();
 		p.load(file);
 		
@@ -116,9 +116,13 @@ public Properties p;
 		
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		wait.until(ExpectedConditions.visibilityOf(element));
 		
 		driver.get(p.getProperty("appURL"));  // reading url from properties file.
-		driver.manage().window().maximize();
+		
+		System.out.println("Loaded URL: " + driver.getCurrentUrl());
+        System.out.println("Page Title: " + driver.getTitle());
+
 	}
 	
 	@AfterClass(groups= {"Sanity","Regression","Master"})
